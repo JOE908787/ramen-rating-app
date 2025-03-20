@@ -21,9 +21,11 @@ Open index.html in your web browser to view the app.
 Project Structure
 ramen-rating-app/
 ├── images/
-│       ├── shoyu.jpg
-│       ├── miso.jpg
-│       └── tonkotsu.jpg
+│       ├── gyukotsu.jpg
+│       ├── kojiro.jpg
+│       ├── naruto.jpg
+│       ├── nirvana.jpg
+│       └──shoyu.jpg
 ├── index.js
 └── index.html
 Usage
